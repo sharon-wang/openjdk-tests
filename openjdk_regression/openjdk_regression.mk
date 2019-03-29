@@ -73,5 +73,5 @@ else
 	JTREG_LANGTOOLS_TEST_DIR := $(OPENJDK_DIR)$(D)test$(D)langtools
 endif
 
-JDK_CUSTOM_TARGET ?= java/math/BigInteger/BigIntegerTest.java
+JDK_CUSTOM_TARGET ?= java/rmi/activation/CommandEnvironment/SetChildEnv.java
 LANGTOOLS_CUSTOM_TARGET ?= tools/javac/declaration/method/MethodVoidParameter.java
