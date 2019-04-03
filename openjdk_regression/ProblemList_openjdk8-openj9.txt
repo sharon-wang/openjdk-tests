@@ -283,7 +283,6 @@ java/util/stream/test/org/openjdk/tests/java/util/stream/ToArrayOpTest.java		htt
 java/util/logging/FileHandlerMaxLocksTest.java		https://github.com/eclipse/openj9/issues/1131	generic-all
 java/util/zip/InflateIn_DeflateOut.java		https://github.com/eclipse/openj9/issues/1131	generic-all
 sun/util/calendar/zi/TestZoneInfo310.java		https://github.com/eclipse/openj9/issues/1131	generic-all
-java/util/SplittableRandom/SplittableRandomTest.java	https://github.com/AdoptOpenJDK/openjdk-tests/issues/830	linux-ppc64le
 java/util/logging/TestLoggingWithMainAppContext.java	https://github.com/AdoptOpenJDK/openjdk-tests/issues/830	macosx-all
 java/util/logging/TestMainAppContext.java	https://github.com/AdoptOpenJDK/openjdk-tests/issues/830	macosx-all
 java/util/zip/ZipFile/DeleteTempJar.java	https://github.com/AdoptOpenJDK/openjdk-tests/issues/821	windows-all
@@ -295,7 +294,6 @@ java/util/stream/SliceOpTest.java	https://github.com/AdoptOpenJDK/openjdk-tests/
 java/util/logging/CheckZombieLockTest.java	https://github.com/AdoptOpenJDK/openjdk-tests/issues/830	generic-all
 java/util/concurrent/ThreadLocalRandom/ThreadLocalRandomTest.java	https://github.com/AdoptOpenJDK/openjdk-tests/issues/830	linux-all
 java/util/Arrays/ParallelPrefix.java	https://github.com/AdoptOpenJDK/openjdk-tests/issues/830	linux-all
-java/util/stream/test/org/openjdk/tests/java/util/SplittableRandomTest.java	https://github.com/eclipse/openj9/issues/4613	generic-all
 ############################################################################
 
 # svc_tools
