@@ -150,7 +150,6 @@ java/lang/reflect/Proxy/ProxyModuleMapping.java		https://github.com/eclipse/open
 java/lang/reflect/PublicMethods/PublicMethodsTest.java		https://github.com/eclipse/openj9/issues/1430	generic-all
 java/lang/String/Exceptions.java		https://github.com/eclipse/openj9/issues/1430	linux-ppc64le
 jdk/internal/misc/Unsafe/CopySwap.java		https://github.com/eclipse/openj9/issues/1430	generic-all
-jdk/internal/misc/VM/GetNanoTimeAdjustment.java		https://github.com/eclipse/openj9/issues/1430	generic-all
 jdk/internal/misc/VM/RuntimeArguments.java		https://github.com/eclipse/openj9/issues/1430	generic-all
 jdk/internal/reflect/CallerSensitive/CheckCSMs.java		https://github.com/eclipse/openj9/issues/1430	generic-all
 jdk/internal/reflect/constantPool/ConstantPoolTest.java		https://github.com/eclipse/openj9/issues/1430	generic-all
